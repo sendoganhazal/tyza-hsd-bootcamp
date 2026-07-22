@@ -1,6 +1,7 @@
 import matplotlib.pyplot as plt
 
 # LINE PLOT (Çizgi Grafiği)
+# zaman içerisinde değişen verileri görselleştirmek için kullanırız
 
 #çizgi grafiği oluşturma
 gunler = [1, 2, 3, 4, 5]
