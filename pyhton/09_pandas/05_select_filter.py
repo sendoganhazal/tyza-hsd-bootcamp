@@ -1,7 +1,6 @@
 import sys
 try:
     import pandas as pd
-    import openpyxl
 except ImportError:
     print("Unable to import 'pandas'. Please install it with 'pip install pandas'.")
     sys.exit(1)
