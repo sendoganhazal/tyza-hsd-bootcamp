@@ -85,4 +85,60 @@ for sayi in range(1,21) :
     print(f"{sayi} -> {tur} - {buyuk_mu}")
 
 print("-" * 50)
-print("ÖDEV TAMAMLANDI")
+
+# ÇIKILAR
+
+"""
+SORU 1 ÇÖZÜM (IF):
+Bir sayı girin: 99
+Girilen sayı: 99
+Sayı Pozitif
+--------------------------------------------------
+SORU 2 ÇÖZÜM (FOR):
+sayi: 1
+sayi: 2
+sayi: 3
+sayi: 4
+sayi: 5
+sayi: 6
+sayi: 7
+sayi: 8
+sayi: 9
+sayi: 10
+1'den 10'a kadar (10 dahil) sayıların toplamı 55
+--------------------------------------------------
+SORU 3 ÇÖZÜM (WHILE):
+Lütfen Mesajınızı Girin (Çıkmak için q'ya basın): merhavaa dünyta
+Girdiniz: merhavaa dünyta
+Lütfen Mesajınızı Girin (Çıkmak için q'ya basın): ss
+Girdiniz: ss
+Lütfen Mesajınızı Girin (Çıkmak için q'ya basın): hefhsda
+Girdiniz: hefhsda
+Lütfen Mesajınızı Girin (Çıkmak için q'ya basın): q
+Çıkış Yapıldı
+--------------------------------------------------
+SORU 4 ÇÖZÜM (NESTED):
+1 -> Tek - 10'dan Küçük
+2 -> Çift - 10'dan Küçük
+3 -> Tek - 10'dan Küçük
+4 -> Çift - 10'dan Küçük
+5 -> Tek - 10'dan Küçük
+6 -> Çift - 10'dan Küçük
+7 -> Tek - 10'dan Küçük
+8 -> Çift - 10'dan Küçük
+9 -> Tek - 10'dan Küçük
+10 -> Çift - 10'dan Küçük
+11 -> Tek - 10'dan Büyük
+12 -> Çift - 10'dan Büyük
+13 -> Tek - 10'dan Büyük
+14 -> Çift - 10'dan Büyük
+15 -> Tek - 10'dan Büyük
+16 -> Çift - 10'dan Büyük
+17 -> Tek - 10'dan Büyük
+18 -> Çift - 10'dan Büyük
+19 -> Tek - 10'dan Büyük
+20 -> Çift - 10'dan Büyük
+--------------------------------------------------
+"""
+
+

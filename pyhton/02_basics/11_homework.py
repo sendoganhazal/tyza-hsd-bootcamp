@@ -144,3 +144,39 @@ print(f"Benzersiz isim sayısı {isim_sayisi}") #benzersiz isim sayısını yazd
 
 
 print("-" * 50)
+
+# ÇIKTILAR
+"""
+SORU 1 ÇÖZÜM
+ad değişkeninin tipi: <class 'str'>
+yas değişkeninin tipi: <class 'tuple'>
+ortalama değişkeninin tipi: <class 'float'>
+--------------------------------------------------
+SORU 2 ÇÖZÜM
+Lutfen yasinizi giriniz: 11
+Girilen yaş değişkeninin tipi <class 'int'>
+Girilen yaşa 5 eklendi
+Bulunan sonuç 16
+--------------------------------------------------
+SORU 3 ÇÖZÜM
+Lutfen urun fiyatini giriniz: 55
+Ürünün kdv'li fiyatı 64.9 TL'dir
+--------------------------------------------------
+SORU 4 ÇÖZÜM
+İlk eleman: 10
+Son eleman: 50
+2. indexten sona kadar olan sayılar: [30, 40, 50]
+--------------------------------------------------
+SORU 5 ÇÖZÜM
+x: 12, y: 34
+--------------------------------------------------
+SORU 6 ÇÖZÜM
+Öğrencinin adı Hazal
+dict_keys(['isim', 'yas', 'bolum', 'not'])
+dict_values(['Hazal', 23, 'Yazılım', 90])
+--------------------------------------------------
+SORU 7 ÇÖZÜM
+Benzersiz isimler: {'Ali', 'Mehmet', 'Ayşe'}
+Benzersiz isim sayısı 3
+--------------------------------------------------
+"""
